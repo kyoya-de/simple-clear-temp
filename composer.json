@@ -1,0 +1,16 @@
+{
+  "name": "kyoya-de/simple-clear-temp",
+  "type":"oxid-module",
+  "description": "Removes all files from OXIDs temp directory.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stefan Krenz",
+      "email": "krenz.stefan@googlemail.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.2"
+  }
+}
